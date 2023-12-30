@@ -9,10 +9,10 @@
 </p>
 
 
-<img align="right" alt="GREEN BLOB GIF" src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="300" />
+<img align="right" alt="GREEN BLOB GIF" src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="300" loop />
 
 
-## <img src="https://github.com/Prathyusha-Guduru/Prathyusha-Guduru/assets/59722558/d21cc2a4-2b21-4bc7-b16c-0c8ffa8aee18" width="20px"> **About me!** &nbsp;
+## **About me!** &nbsp;
 
 A passionate tech enthusiast with a knack for problem-solving and a love for mathematics. I thrive in the world of competitive programming and Data Structures & Algorithms, constantly seeking new challenges to sharpen my skills.
 
